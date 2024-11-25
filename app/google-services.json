@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231527279764",
+    "project_id": "kickboardclassifier",
+    "storage_bucket": "kickboardclassifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231527279764:android:18d9c27ead12a2b6e3d881",
+        "android_client_info": {
+          "package_name": "com.kickboard.kickboardclassifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPIwQ0W8gR6Bz7PBDCMV8-5KzMM70YEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
